@@ -61,7 +61,7 @@ const Weather = () => {
                 <img src={humidity} alt=''/>
             <div>
                 <p>{weatherData.humidity} %</p>
-                <span>Humid</span>
+                <span>Humidity</span>
             </div>
             </div>
             <div className='col'>
